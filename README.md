@@ -1,8 +1,8 @@
+Original [d3-sankey demo](http://bl.ocks.org/xaranke/9ada4c74a87b57ae7308).
+
 Created using the [d3-sankey](https://github.com/d3/d3-sankey) plugin for D3 4.0.
 
 Stolen from Mike Bostock's [original here](http://bost.ocks.org/mike/sankey/).
-
-Built with [blockbuilder.org](http://blockbuilder.org)
 
 Install Node.js dependencies
 
