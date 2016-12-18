@@ -6,15 +6,21 @@ Built with [blockbuilder.org](http://blockbuilder.org)
 
 Install Node.js dependencies
 
+```sh
 $ npm install
+```
 
 Create `d3.min.js`
 
+```sh
 $ npm run build
+```
 
 Run the Node server
 
+```sh
 $ node server.js
+```
 
 Open local webpage: [http://127.0.0.1:1337](http://127.0.0.1:1337)
 
